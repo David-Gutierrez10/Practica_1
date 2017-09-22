@@ -1,0 +1,4 @@
+﻿  main_prac6.cpp
+c:\users\richard\desktop\practicas\practica6\practica6\main_prac6.cpp(35): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+  practica6.vcxproj -> C:\Users\Richard\Desktop\practicas\practica6\Debug\practica6.exe
+  practica6.vcxproj -> C:\Users\Richard\Desktop\practicas\practica6\Debug\practica6.pdb (Partial PDB)
